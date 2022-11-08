@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pepchat-agent-aguf",
+  "private_key_id": "c7439044b86b0b364705c919d527b98854741b91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5AIrsI0OKUT0F\na33Efrx23MK0dscBRtgDMcPF4zuKlarohhc5mATDb55lcIwCqz7RcyZUKyHRgE1G\nKwyb0ql1FztM66TTfw2XhVZAWdZSY4Z7DH36msi6idQJ1K1J5xUny9HzB04eXZGg\ny4JsKDnpkE6FfbvgbfkzK3yK6ZQ4ZZXZAc5xPWz/3oLxK5rHY7QrlrJvlvArfaKT\nN3snkgt9Ca4K3J1vSUw6SzLlPMSqsXJYmTsloIdYriCE94BgDHunpKZAGis2Cshh\nF/XWLSgOdsQM9asRAcrI4phqtEoSbG1LV4JMXqw1E2T5ABworhcU2jziF/RIg4ed\nr309dumJAgMBAAECggEARxBwzOV838h2Brt0O8MtNQF3H2hS6GgkuRFoMP8pE4KL\nfLdpe3usNMCPGUtC1RGf10gCzKkm2/mLdW068i5ZXruWUWVhUsbG21HiQGTiAZLu\niRzS1a2YdqNUGpSiHjXQeBGAq/i95sctlhUmm9JV8KS4rOmP/lVwONo3BItWHtUr\niHWe09kW5C8H5zBnbdxnz0zn5SO8KJNaTEnK9ULeXGiFzdt3nOiTNawdR370BrPT\n6kjE2x2R2/VQeTbb7EwReR22+W4FG/g7NB9Pajk8WgQmDw+5Xj9AmXrAFw7W00az\nPmv/59zq+I25LaeBVD3nean30ydcULbmhGHsMy/v2wKBgQDiWNvcangLE5Y5VgCr\nH6CwVhc48fmQRyjul5zdHcWzbjLCaSRn8A5ggf4NTsHP+FBd9b8Z+UDH6VZOLN/Z\ntZTu3K15w3gdvoBMp9tuPa7bkABpXpc66HHEWnFV2dVy2UpC95d7fYZifi2fgpj0\nN5x6oocK89zCr/OM5sbG9ocYQwKBgQDRPRJh5B2oR5c+dra34r5oG8ydYbwsaxNK\nyGrTVWQyW8zDtuYcu0qkEQXTr3aVO8jVPEI+YUOLVWui/eUW2qCnzhH7xUu6Nppr\n5aEQuDBL7AX5whA75m/0HqcZZLuI+fp+7AdZSQRsVc1AYG+d56ZgaHJEP7QajA6y\nwCNV6MUwQwKBgQC9TWncB2OMh/4cx9PZSqNetzHG24FIbGtMWJrFx2+gaGqlc8AR\n+ZBcoHt0b8jigZ/dZXlFZNQMHhejXB5/e0ErIH8plhRwc/HjqoN3yLjkQqRFe+np\nR5xWhvnAvmWpHxffuCkGC+6Hk1Xe0R/RKG2Dl0hwHZIldXixABWBM4+69wKBgGSU\nNdTmgbcVisdU62ojTaHf0xDIHVtAsUpeYrNptbtbU2e08JJZGX0aTbG/A4Ki9VxD\nFhjESmKc0hvMbiX5PAbN0Ok0or1FaB97h1vxHg4wy4KOXZ1dnO09GtfjCx7CAz6l\nmLa7mau15u8OLDk8VEa9jkfuU1X7g0k7gQDX3onfAoGAB0kFSeOQ8pN4wE3d8dSm\n3AOUNPfXL4R/BqPuNRGJ/ztuUFgi7oC31zB1w2OGUIeMPdt6muWeMm6lP6B6cOOI\n8p/Wa2uku7558EccxpG5XBpmDJyg9j7hP3NRF7Uf7rfYw0a6vqsD65GEwGLk0ECY\ngbxC/Y9t76VTXElwwgHsxDc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pep-671@pepchat-agent-aguf.iam.gserviceaccount.com",
+  "client_id": "112228801499474487791",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pep-671%40pepchat-agent-aguf.iam.gserviceaccount.com"
+}
